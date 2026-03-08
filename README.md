@@ -7,6 +7,10 @@ The application includes a **Gradio-based web interface** for uploading document
 
 ---
 
+## Application Interface
+
+![Interface](screenshot/interface.png)
+
 # Overview
 
 Large Language Models are powerful but often lack access to external or private knowledge.
